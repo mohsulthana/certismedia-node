@@ -1,0 +1,34 @@
+{
+  "name": "certismedia-node",
+  "version": "1.0.0",
+  "description": "node version for certismedia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "certis"
+  ],
+  "author": "Mohammad Sulthan",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "firebase": "^9.6.10",
+    "firebase-admin": "^10.0.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "i": "^0.3.7",
+    "multer": "^1.4.4",
+    "node-fetch": "^3.2.3",
+    "path": "^0.12.7",
+    "salted-md5": "^4.0.2"
+  }
+}
